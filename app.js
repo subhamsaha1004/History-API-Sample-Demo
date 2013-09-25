@@ -4,7 +4,7 @@ window.onload = function(){
   // real application.
   var pages = {
   	index: {
-  		title: "Home PAge",
+  		title: "Home Page",
   		content: "This is the home page. \n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, facilis."
   	},
   	about: {
@@ -12,7 +12,7 @@ window.onload = function(){
   		content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, repellat."
   	},
   	products: {
-  		title: "Products PAge",
+  		title: "Products Page",
   		content: "This is the home page. \n Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui, facilis."
   	},
   	contact: {
